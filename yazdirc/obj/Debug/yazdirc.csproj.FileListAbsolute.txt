@@ -1,0 +1,8 @@
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\bin\Debug\yazdirc.exe.config
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\obj\Debug\yazdirc.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\bin\Debug\yazdirc.exe
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\bin\Debug\yazdirc.pdb
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\obj\Debug\yazdirc.exe
+C:\Users\omer\Desktop\C-SARP\notlarim\yazdirc\yazdirc\obj\Debug\yazdirc.pdb
